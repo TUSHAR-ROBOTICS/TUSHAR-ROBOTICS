@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Tushar 👋<br><br>🚀 Robotics & Aerospace Enthusiast<br>🔧 Working with ESP32, Raspberry Pi & Arduino<br>🛰️ Building drones, robot cars & CubeSat projects<br>💻 Learning C++ and embedded systems<br>📍 From Pune, India
+#  About Me:
+Hi, I'm Tushar <br><br> Robotics Engineer & Aerospace Enthusiast<br> Working with ESP32, Raspberry Pi & Arduino<br>🛰️ Building drones, robot cars & CubeSat projects<br> Learning C++ and embedded systems<br> From Pune, India
 
 
 ## 🌐 Socials:
